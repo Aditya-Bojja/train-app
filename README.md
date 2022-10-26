@@ -17,6 +17,7 @@ NOTE: Make sure you are in the correct project directory (src level) before runn
 
 * Run the following commands to execute unit tests and to generate jacoco report
   > *mvn clean test*
+
   > *mvn jacoco:report*
 
 * Go to target-> site-> jacoco and open index.html in the browser to check the code coverage report.
